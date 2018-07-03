@@ -10,6 +10,7 @@ Fully "brand-able": administrators can also invite public users to access trades
 PHC-DEX is a distributed peer to peer exchange platform running virtually any RPC compatible crypto-currency (BTC, LTC, DASH, etc) that can be easily implemented by users with very minimal technical experience. Profit Hunters Coin started out as an experimental crypto-currency, after proving its own security features; We’ve decided to use it as a side-chain implementation to enable cross-block-chain coin exchanges through Trusted, MultiSig, SegWit, script-able swaps.
 
 Demo available: http://dex.profithunterscoin.com
+
 Initial Node Offering: http://profithunterscoin.com/dex/?PAGE=yournode
 
 Completed source code to be uploaded Jan 1, 2020 (Pre-released when available: Q1 2019 in private to INO holders)
