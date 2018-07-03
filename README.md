@@ -12,4 +12,4 @@ PHC-DEX is a distributed peer to peer exchange platform running virtually any RP
 Demo available: http://dex.profithunterscoin.com
 Initial Node Offering: http://profithunterscoin.com/dex/?PAGE=yournode
 
-Source code to be uploaded Jan 1, 2020 (Pre-released Jan 2019 in private to INO holders)
+Completed source code to be uploaded Jan 1, 2020 (Pre-released when available: Q1 2019 in private to INO holders)
